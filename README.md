@@ -12,8 +12,7 @@ A real-time UAV (drone) ground control station built with **Python** and **PySid
 ## Screenshots
 
 > _Run the simulator alongside the GCS to see it in action._
-> ![Uploading image.png…]()
-
+<img width="1918" height="1012" alt="uav gcs" src="https://github.com/user-attachments/assets/930e7085-514b-4b33-bb98-ef94b5602de8" />
 
 ---
 
